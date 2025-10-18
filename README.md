@@ -8,7 +8,7 @@ A stunning collection of highly animated websites built with **React.js** and **
 
 Check out the live website here: [https://animated-website-two-mocha.vercel.app/](https://animated-website-two-mocha.vercel.app/)
 
-## ✨ Features
+# ✨ Features
 
 - 🚀 **High-Performance Animations** - Smooth 60fps animations using GSAP
 - ⚛️ **React.js Framework** - Modern component-based architecture
