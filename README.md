@@ -25,17 +25,6 @@ Check out the live website here: [https://animated-website-two-mocha.vercel.app/
 - **CSS3** - Modern styling and layouts
 - **JavaScript (ES6+)** - Latest JavaScript features
 
-## 📚 GSAP Concepts Covered
-
-This project includes clear implementations of:
-
-- **ScrollTrigger** - Scroll-based animations
-- **Timeline** - Sequenced animations
-- **Tweens** - Simple property animations
-- **Easing Functions** - Custom animation curves
-- **Stagger Effects** - Delayed animations for multiple elements
-- **Pin & Scrub** - Advanced scroll effects
-- **MotionPath** - Complex animation paths
 
 ## 🚀 Getting Started
 
@@ -72,21 +61,7 @@ http://localhost:5173
 
 ```bash
 npm run build
-```
 
-## 📂 Project Structure
-
-```
--animatedWebsite/
-├── src/
-│   ├── components/     # React components
-│   ├── assets/         # Images, fonts, etc.
-│   ├── styles/         # CSS files
-│   └── App.jsx         # Main app component
-├── public/             # Static files
-├── package.json        # Dependencies
-└── README.md          # Project documentation
-```
 
 ## 🎯 Key Learnings
 
@@ -97,35 +72,5 @@ Through this project, you'll understand:
 - Performance optimization for animations
 - Best practices for animated web experiences
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👨‍💻 Author
-
-**Keshav Kumar**
-
-- GitHub: [@Keshavkumarr0](https://github.com/Keshavkumarr0)
-- Live Demo: [animated-website-two-mocha.vercel.app](https://animated-website-two-mocha.vercel.app/)
-
-## 🌟 Show Your Support
-
-Give a ⭐️ if you like this project and learned something new!
-
-## 📧 Contact
-
-For any queries or feedback, feel free to reach out!
-
----
 
 **Happy Coding! 🚀**
