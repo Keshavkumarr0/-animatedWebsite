@@ -17,7 +17,7 @@ Check out the live website here: [https://animated-website-two-mocha.vercel.app/
 - 🎨 **Beautiful UI/UX** - Professional and engaging user interface
 - 🔥 **Production Ready** - Deployed on Vercel
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - **React.js** - JavaScript library for building user interfaces
 - **GSAP (GreenSock)** - Professional-grade animation library
